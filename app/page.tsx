@@ -8,7 +8,7 @@ function outNow() {
       <div className="flex absolute text-center">
         <div className="p-5 bg-red-900">
           <p className="text-5xl w-screen thick">
-            "{outnowdata["title"]}" OUT NOW
+            {`"${outnowdata["title"]}"`} OUT NOW
           </p>
         </div>
       </div>
