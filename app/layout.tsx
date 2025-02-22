@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Physical Phy Scene",
-  description: "INDUSTRIAL,ROCK,INDIE,ALT!!",
+  description: "INDUSTRIAL,ROCK,INDIE,ALT!!\nBased in Crestview, FL",
 };
 
 export default function RootLayout({
