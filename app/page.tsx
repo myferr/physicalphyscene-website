@@ -25,6 +25,10 @@ export default function Home() {
           <h1 className="scroll-m-20 text-6xl font-extrabold tracking-tight lg:text-7xl font-rock-salt">
             PHYSCIAL PHY SCENE
           </h1>
+          <p>
+            Based in Crestivew, FL. PHYSCIALPHYSCENE is a band that creates
+            INDUSTRIAL,ROCK,INDIE,ALT music.
+          </p>
           <div className="gap-4 flex flex-col w-full">
             <Link
               href={"https://www.instagram.com/physicalplysc3ne/"}
