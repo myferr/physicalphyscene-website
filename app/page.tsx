@@ -27,7 +27,7 @@ export default function Home() {
           </h1>
           <div className="gap-4 flex flex-col w-full">
             <Link
-              href={"https://www.instagram.com/physcialplysc3ne"}
+              href={"https://www.instagram.com/physicalplysc3ne/"}
               target="_blank"
               className="hover:text-red-900 hover:bg-white bg-red-900 p-2 rounded-sm w-full text-white text-lg font-semibold"
             >
