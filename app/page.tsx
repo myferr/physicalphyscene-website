@@ -38,7 +38,7 @@ export default function Home() {
               JOIN US ON INSTAGRAM
             </Link>
             <Link
-              href={"/music"}
+              href={"/stream"}
               className="hover:text-red-900 hover:bg-white bg-red-900 p-2 rounded-sm w-full text-white text-lg font-semibold"
             >
               LISTEN TO OUR MUSIC
