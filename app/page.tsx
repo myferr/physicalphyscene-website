@@ -27,11 +27,6 @@ function OuijaBoard() {
     ["T", "U", "V", "W", "X", "Y", "Z"],
   ];
 
-  const options = [
-    { text: "YES", position: "top-left" },
-    { text: "NO", position: "top-right" },
-    { text: "GOODBYE", position: "bottom" },
-  ];
 
   // Handle planchette movement
   const handleMouseMove = (e: React.MouseEvent) => {
